@@ -3,7 +3,7 @@ import string
 
 def random_password():
     # set random password length
-    password_length = random.randint(10, 20)
+    password_length = random.randint(8, 16)
     
     # generate random password
     characters = string.digits + string.ascii_letters + string.punctuation
