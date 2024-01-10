@@ -33,5 +33,5 @@ result_probability = birthday_paradox_probability(num_people)
 theoretical_probability = theoretical_birthday_probability(num_people)
 
 # print the results
-print(f"{num_people} people, actual birthday paradox probability: {result_probability:.2%}")
-print(f"{num_people} people, theoretical birthday paradox probability: {theoretical_probability:.2%}")
+print(f"actual birthday paradox probability: {result_probability:.2%}")
+print(f"theoretical birthday paradox probability: {theoretical_probability:.2%}")
