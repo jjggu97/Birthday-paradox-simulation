@@ -1,6 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+def theoretical_birthday_probability(num_people):
+    # calculate the theoretical birthday paradox probability
+    probability = 1 - np.prod([(365 - i) / 365 for i in range(num_people)])
+    return probability
+
 def birthday_paradox_simulation(num_simulations, num_people):
     # initialize match count
     match_count = 0

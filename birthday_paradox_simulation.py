@@ -34,4 +34,4 @@ theoretical_probability = theoretical_birthday_probability(num_people)
 
 # print the results without displaying the number of people
 print(f"actual birthday paradox probability: {result_probability:.2%}")
-print(f"theoretical birthday paradox probability: {theoretical_probability:.2%}")
+print(f"theoretical birthday paradox probability: {theoretical_probability:.2%}") 
