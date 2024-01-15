@@ -32,7 +32,7 @@ The script outputs the probability of a birthday match based on the simulations.
 ---
 
 ### How to use
-Run the script and input the number of people when prompted. 
+Run the script when prompted.
 
 The script will run simulations and plot the probability of a birthday match for different group sizes.
 
