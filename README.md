@@ -45,6 +45,17 @@ The x-axis represents the number of people in the group, and the y-axis represen
 
 ![result](https://github.com/jjggu97/Birthday-paradox-simulation/assets/88616515/1075379f-e01d-4e02-a660-7be1b1726e81)
 
+---
+
+## Conclusion
+
+Through this script, we confirmed the high probability of people sharing the same birthday.
+
+For example, when 23 people get together, the chance of shared birthdays goes over 50%.
+
+You can see that the probability of sharing the same birthday is higher than what our intuition would suggest.
+
+
 ## References
 
 - [The Birthday Paradox Explained](http://www.worldofanalytics.be/blog/the-birthday-paradox-explained): An informative article explaining the Birthday Paradox.
