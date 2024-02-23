@@ -53,7 +53,7 @@ Through this script, we confirmed the high probability of people sharing the sam
 
 For example, when 23 people get together, the chance of shared birthdays goes over 50%.
 
-You can see that the probability of sharing the same birthday is higher than what our intuition would suggest.
+We can see that the probability of sharing the same birthday is higher than what our intuition would suggest.
 
 
 ## References
